@@ -1,0 +1,8 @@
+com\Controller\AdminProduct.class
+com\Controller\CartController.class
+com\Controller\CartResources.class
+com\Controller\RegisterController.class
+com\Controller\AdminHome.class
+com\Controller\ProductController.class
+com\Controller\indexController.class
+com\Controller\OrderController.class
